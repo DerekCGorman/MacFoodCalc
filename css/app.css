@@ -74,6 +74,8 @@ flex-center{
     border-radius: 12px;
     font-size: 25px;
     padding: 16px;
+    color: black;
+    font-weight: bold;
 }
 
 .btn:hover{
